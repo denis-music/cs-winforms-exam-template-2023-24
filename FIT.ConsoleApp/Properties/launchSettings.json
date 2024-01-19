@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FIT.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "prIII fit intro"
+    }
+  }
+}
